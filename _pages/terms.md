@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2025-12-23
 ---
 
 {% include base_path %}
@@ -9,31 +9,48 @@ modified: 2016-06-06
 
 ## Privacy Policy
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+This website is a personal academic homepage intended to provide information about my research, publications, and professional activities.
+Protecting the privacy of visitors is important, and this page explains what data is (and is not) collected.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+### Data Controller
+
+The data controller is the owner of this website.
+Contact details are provided on the main page of this site.
+
+### Personal Data Collected
+
+This website does not collect personal data from visitors such as names, email addresses, or account information.
+
+### Cookies
+
+This website itself does not set any cookies.
 
 ### Log Files
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+Like most websites hosted on GitHub Pages, standard server log files may be generated automatically.
+These logs may include:
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+- Internet Protocol (IP) address
+- Browser type and version
+- Operating system
+- Date and time of access
+- Referring pages
 
-All of this information is not linked to anything that is personally identifiable.
+This website is hosted using GitHub Pages.
+GitHub may process technical data (such as IP addresses) to deliver the website securely and reliably.
+GitHub’s privacy practices are governed by their own privacy policy.
 
-### Cookies and Web Beacons
+### Legal Basis (GDPR)
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](https://disqus.com) the next time you leave a comment.
+Where applicable under the GDPR, data processing is based on:
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+- **Legitimate interest** (Art. 6(1)(f) GDPR) in maintaining a secure and functional website
 
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
+### Your Rights
 
-#### Google Analytics
+Under applicable data protection laws, you may have the right to:
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](https://www.google.com/analytics/learn/privacy.html).
+- Request access to personal data
+- Request rectification or erasure
+- Object to or restrict processing
+- Lodge a complaint with a supervisory authority
