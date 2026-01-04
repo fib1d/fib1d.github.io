@@ -13,7 +13,7 @@ title                    : "Marc Gourjon"
 title_separator          : "-"
 name                     : &name "Marc Gourjon"
 description              : &description "Marc Gourjons's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://fib1d.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://marc.gourjon.org # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fib1d/fib1d.github.io"
